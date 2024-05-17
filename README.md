@@ -1,4 +1,10 @@
 # sneed_defi
+
+bitcorn labs contribution to sneed dao. special thanks to spudsub.
+sneed defi app holds lp positons of many tokens. sneed lock offers project developers a means to lock their canister controller within sneed dao, and interact directly with icpswaps liquidty infastrucrure. 
+
+sneed lock will enable sneed dao to create, remove, claim fees and send tokens from lp positons and the treasury itself. The fees from the lp positons feed back into the sneed treasury. 
+
 Sneed DeFi DAO infrastructure
 
 
